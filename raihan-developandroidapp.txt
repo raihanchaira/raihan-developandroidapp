@@ -2,3 +2,4 @@ raihan develop android app
 -belajar flutter dan java
 -belajar xml
 -belajar cara membuat aplikasi android
+-membuat project sendiri
